@@ -53,13 +53,13 @@ Minha experiência como **Vice-Presidente de Atlética** em Florianópolis refle
 ### Comparação de Veículos
 Aqui a aplicação demonstra a capacidade de selecionar dois modelos para comparar especificações técnicas lado a lado.
 
-<img src="public/screenshots/image.png" alt="Imagem selecionando um veiculo" width="800">
-<img src="public/screenshots/image-1.png" alt="Imagem mostrando a comparação" width="800">
+<img src="https://github.com/LuisNoronha1/Carfinder/blob/main/Public/Screenshots/image.png" alt="Imagem selecionando um veiculo" width="800">
+<img src="https://github.com/LuisNoronha1/Carfinder/blob/main/Public/Screenshots/image-1.png" alt="Imagem mostrando a comparação" width="800">
 
 ### Filtro em Tempo Real
 Utilizando o estado do React, a pesquisa filtra os veículos instantaneamente conforme o usuário digita.
 
-<img src="public/screenshots/image-2.png" alt="Filtro em tempo real" width="800">
+<img src="https://github.com/LuisNoronha1/Carfinder/blob/main/Public/Screenshots/image-2.png" alt="Filtro em tempo real" width="800">
 
 ### 📫 Vamos nos conectar?
 - **LinkedIn:** [Luis Gustavo de Zanini Noronha](https://www.linkedin.com/in/luis-gustavo-de-zanini-noronha/)
