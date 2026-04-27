@@ -18,6 +18,22 @@ Backend & Integração: Conhecimentos em Node.js, Express e integração com Fir
 
 Banco de Dados: Noções de MongoDB (Stack MERN).
 
+## 🔧 Como Executar o Projeto
+
+1. Clone o repositório:
+   ```bash
+   git clone [https://github.com/seu-usuario/carfinder.git](https://github.com/seu-usuario/carfinder.git)
+
+2. Instale as dependências:
+
+No terminal: 
+npm install
+
+3. Inicie o servidor de desenvolvimento:
+
+No terminal:
+npm run dev
+
 ## 🛠️ Funcionalidades
 Visualização dinâmica de veículos.
 
@@ -36,9 +52,12 @@ Minha experiência como **Vice-Presidente de Atlética** em Florianópolis refle
 
 ### Comparação de Veículos
 Aqui a aplicação demonstra a capacidade de selecionar dois modelos para comparar especificações técnicas lado a lado.
-![Imagem selecionando um veiculo para comparar!](image.png)
-![Imagem mostrando a comparação entre veículos!](image-1.png)
+![Imagem selecionando um veiculo para comparar!](/public/screenshots\image.png)
+![Imagem mostrando a comparação entre veículos!](/public/screenshots/image-1.png)
 
 ### Filtro em Tempo Real
 Utilizando o estado do React, a pesquisa filtra os veículos instantaneamente conforme o usuário digita.
-![Pesquisa de veiculos filtra em tempo real](image-2.png)
+![Pesquisa de veiculos filtra em tempo real](/public/screemshots/image-2.png)
+
+### 📫 Vamos nos conectar?
+- **LinkedIn:** [Luis Gustavo de Zanini Noronha](https://www.linkedin.com/in/luis-gustavo-de-zanini-noronha/)
