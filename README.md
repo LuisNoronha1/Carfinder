@@ -52,12 +52,14 @@ Minha experiência como **Vice-Presidente de Atlética** em Florianópolis refle
 
 ### Comparação de Veículos
 Aqui a aplicação demonstra a capacidade de selecionar dois modelos para comparar especificações técnicas lado a lado.
-![Imagem selecionando um veiculo para comparar!](public/screenshots/image.png)
-![Imagem mostrando a comparação entre veículos!](public/screenshots/image-1.png)
+
+<img src="public/screenshots/image.png" alt="Imagem selecionando um veiculo" width="800">
+<img src="public/screenshots/image-1.png" alt="Imagem mostrando a comparação" width="800">
 
 ### Filtro em Tempo Real
 Utilizando o estado do React, a pesquisa filtra os veículos instantaneamente conforme o usuário digita.
-![Pesquisa de veiculos filtra em tempo real](public/screenshots/image-2.png)
+
+<img src="public/screenshots/image-2.png" alt="Filtro em tempo real" width="800">
 
 ### 📫 Vamos nos conectar?
 - **LinkedIn:** [Luis Gustavo de Zanini Noronha](https://www.linkedin.com/in/luis-gustavo-de-zanini-noronha/)
